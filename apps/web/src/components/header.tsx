@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ModeToggle } from "./mode-toggle";
 
 export default function Header() {
-	const links = [{ to: "/", label: "Home" }] as const;
+	const links = [{ to: "/", label: "Bem Vindo" }] as const;
 
 	return (
 		<div>

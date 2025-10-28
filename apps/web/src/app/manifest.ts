@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
 		name: "bemvindo",
 		short_name: "bemvindo",
 		description: "my pwa app",
-		start_url: "/new",
+		start_url: "/",
 		display: "standalone",
 		background_color: "#ffffff",
 		theme_color: "#000000",

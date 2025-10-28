@@ -10,6 +10,7 @@
     "check": "biome check --write .",
     "dev": "pnpm -r dev",
     "build": "pnpm -r build",
+    "start": "next start",
     "check-types": "pnpm -r check-types",
     "dev:native": "pnpm --filter native dev",
     "dev:web": "pnpm --filter web dev"
